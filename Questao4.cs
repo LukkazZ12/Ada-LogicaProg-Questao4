@@ -2,7 +2,7 @@ using System;
 
 namespace Questao4
 {
-    internal class Questao4
+    internal class Questao04
     {
         static void Main(string[] args)
         {
